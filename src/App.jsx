@@ -2,9 +2,9 @@
 import './App.css';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Cocktails from './components/Cocktails';
+import Navbar from './components/navbar';
+import Hero from './components/hero';
+import Cocktails from './components/cocktails';
 import About from './components/About';
 import Art from './components/Art';
 import Menu from './components/Menu';
